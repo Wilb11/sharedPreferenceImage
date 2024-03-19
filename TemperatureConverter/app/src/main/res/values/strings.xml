@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TemperatureConverter</string>
+    <string name="celsius_seekbar_description">Adjust Celsius temperature</string>
+    <string name="fahrenheit_seekbar_description">Adjust Fahrenheit temperature</string>
+    <string name="initial_message">Adjust the sliders to convert temperatures.</string>
+    <string name="wish_warmer">I wish it were warmer.</string>
+    <string name="wish_colder">I wish it were colder.</string>
+</resources>

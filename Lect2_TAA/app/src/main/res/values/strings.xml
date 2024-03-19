@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Arithmetic Operations</string>
+    <string name="invalid_operand">Invalid operand. Please enter valid numbers.</string>
+    <string name="divide_by_zero">Divide by zero is not allowed.</string>
+    <string name="error">An error occurred. Please try again.</string>
+    <string name="result_template">Result: %1$s</string>
+    <string-array name="arithmetic_operations_array">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+        <item>Modulus</item>
+    </string-array>
+</resources>
